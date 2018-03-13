@@ -17,5 +17,7 @@ Pasos
 
 1. Esperar a que el IDE ejecute la Aplicación Web en el navegador
 
+1. Haga uso de la Aplicación Web.
+
 
 
